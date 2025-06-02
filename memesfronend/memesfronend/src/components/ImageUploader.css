@@ -1,0 +1,12 @@
+.image-uploader {
+  margin: 1rem 0;
+}
+
+.upload-label {
+  background-color: #4caf50;
+  color: white;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+.meme-canvas {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+canvas {
+  max-width: 100%;
+  border: 2px solid #333;
+}
